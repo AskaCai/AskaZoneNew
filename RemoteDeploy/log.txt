@@ -1,0 +1,142 @@
+ 
+[2015-06-03 15-09-48 +899] *****************部署开始******************
+[2015-06-03 15-09-48 +901] 要导出的项目路径：E:\LongyunEclipseworkspace\hello-world-connector
+[2015-06-03 15-09-48 +901] 导出的zip包路径：E:\电科院\try\Connectorzip\helloworld.zip
+[2015-06-03 15-09-48 +929] 准备创建transformer.properties文件：E:\电科院\try\Connectorzip\helloworld.zip-transformer.properties
+[2015-06-03 15-09-48 +931] transformer.properties文件创建成功：E:\电科院\try\Connectorzip\helloworld.zip-transformer.properties
+[2015-06-03 15-09-48 +931] 开始进行反射获取transformer的properties信息
+[2015-06-03 15-09-49 +466] 成功获取transformer信息
+[2015-06-03 15-09-49 +466] 开始往transformer.properties写入所获取信息 
+[2015-06-03 15-09-49 +469] 往transformer.properties写入完成
+[2015-06-03 15-09-49 +469] 准备将helloworld.zip-transformre.properties压缩到helloworld.zip.zip中
+[2015-06-03 15-09-49 +496] helloworld.zip-transformre.properties压缩完成
+[2015-06-03 15-10-10 +553] *****************部署结束******************
+[2015-06-03 15-10-10 +553]   
+[2015-06-03 15-15-39 +292]   
+[2015-06-03 15-15-39 +360] *****************部署开始******************
+[2015-06-03 15-15-39 +360] 要导出的项目路径：E:\LongyunEclipseworkspace\hello-world-connector
+[2015-06-03 15-15-39 +360] 导出的zip包路径：E:\电科院\try\Connectorzip\helloworld.zip
+[2015-06-03 15-15-39 +367] 准备创建transformer.properties文件：E:\电科院\try\Connectorzip\helloworld-transformer.properties
+[2015-06-03 15-15-39 +370] transformer.properties文件创建成功：E:\电科院\try\Connectorzip\helloworld-transformer.properties
+[2015-06-03 15-15-39 +370] 开始进行反射获取transformer的properties信息
+[2015-06-03 15-15-39 +457] 成功获取transformer信息
+[2015-06-03 15-15-39 +457] 开始往transformer.properties写入所获取信息 
+[2015-06-03 15-15-39 +457] 往transformer.properties写入完成
+[2015-06-03 15-15-39 +457] 准备将helloworld-transformre.properties压缩到helloworld.zip中
+[2015-06-03 15-15-39 +487] helloworld-transformre.properties压缩完成
+[2015-06-03 15-16-00 +497] *****************部署结束******************
+[2015-06-03 15-16-00 +499]   
+[2015-06-03 15-27-38 +376]   
+[2015-06-03 15-27-38 +406] *****************部署开始******************
+[2015-06-03 15-27-38 +406] 要导出的项目路径：E:\LongyunEclipseworkspace\hello-world-connector
+[2015-06-03 15-27-38 +406] 导出的zip包路径：E:\电科院\try\Connectorzip\helloworld.zip
+[2015-06-03 15-27-38 +414] 准备创建transformer.properties文件：E:\电科院\try\Connectorzip\helloworld-transformer.properties
+[2015-06-03 15-27-38 +416] transformer.properties文件创建成功：E:\电科院\try\Connectorzip\helloworld-transformer.properties
+[2015-06-03 15-27-38 +416] 开始进行反射获取transformer的properties信息
+[2015-06-03 15-27-38 +496] 成功获取transformer信息
+[2015-06-03 15-27-38 +499] 开始往transformer.properties写入所获取信息 
+[2015-06-03 15-27-38 +499] 往transformer.properties写入完成
+[2015-06-03 15-27-38 +499] 准备将helloworld-transformre.properties压缩到helloworld.zip中
+[2015-06-03 15-27-38 +529] helloworld-transformre.properties压缩完成
+[2015-06-03 15-27-59 +537] *****************部署结束******************
+[2015-06-03 15-27-59 +539]   
+[2015-06-03 16-22-48 +160]   
+[2015-06-03 16-22-48 +200] *****************部署开始******************
+[2015-06-03 16-22-48 +200] 要导出的项目路径：E:\LongyunEclipseworkspace\hello-world-connector
+[2015-06-03 16-22-48 +200] 导出的zip包路径：E:\电科院\try\Connectorzip\helloworld.zip
+[2015-06-03 16-22-48 +208] 准备创建transformer.properties文件：E:\LongyunEclipseworkspace\hello-world-connector\helloworld-transformer.properties
+[2015-06-03 16-22-48 +210] transformer.properties文件创建成功：E:\LongyunEclipseworkspace\hello-world-connector\helloworld-transformer.properties
+[2015-06-03 16-22-48 +210] 开始进行反射获取transformer的properties信息
+[2015-06-03 16-22-48 +318] 成功获取transformer信息
+[2015-06-03 16-22-48 +318] 开始往transformer.properties写入所获取信息 
+[2015-06-03 16-22-48 +320] 往transformer.properties写入完成
+[2015-06-03 16-22-48 +320] 准备将helloworld-transformre.properties压缩到helloworld.zip中
+[2015-06-03 16-22-48 +348] helloworld-transformre.properties压缩完成
+[2015-06-03 16-22-48 +350] 准备创建protocol.properties文件：E:\LongyunEclipseworkspace\hello-world-connector\helloworld-protocol.properties
+[2015-06-03 16-22-48 +350] protocol.properties文件创建成功：E:\LongyunEclipseworkspace\hello-world-connector\helloworld-protocol.properties
+[2015-06-03 16-22-48 +353] 准备获取editor.xml对象
+[2015-06-03 16-22-48 +373] Jar包所在路径：E:\LongyunEclipseworkspace\hello-world-connector\target\update-site\plugins
+[2015-06-03 16-22-48 +375] 准备解压的jar包为：E:\LongyunEclipseworkspace\hello-world-connector\target\update-site\plugins\hello-world-connector-1.0.0-SNAPSHOT-sources.jar
+[2015-06-03 16-22-48 +468] 解压成功
+[2015-06-03 16-22-48 +468] editors.xml路径为：E:\LongyunEclipseworkspace\hello-world-connector\target\update-site\plugins\editors.xml
+[2015-06-03 16-22-48 +490] 获取editor.xml成功
+[2015-06-03 16-22-48 +490] 准备往helloworld-protocol.properties写入procotol信息
+[2015-06-03 16-22-48 +498] CompName=hello-world
+[2015-06-03 16-22-48 +498] config-ref=hello-world__Configuration_type_strategy
+[2015-06-03 16-22-48 +500] namespace=xmlns:hello-world="http://www.mulesoft.org/schema/mule/hello-world"
+[2015-06-03 16-22-48 +500] location=http://www.mulesoft.org/schema/mule/hello-world http://www.mulesoft.org/schema/mule/hello-world/current/mule-hello-world.xsd
+[2015-06-03 16-22-48 +530] GlobalParameter=[{"name":"myProperty","type":"input","value":"value"},{"name":"myStrategyProperty","type":"input","value":"value"}]
+[2015-06-03 16-22-48 +538] operation=source-operation
+[2015-06-03 16-22-48 +538] property=[{"name":"ip","type":"input","value":""},{"name":"port","type":"input","value":""}]
+[2015-06-03 16-22-48 +538] 往helloworld-protocol.properties写入procotol信息完成
+[2015-06-03 16-22-48 +538] 准备将helloworld-procotol.properties压缩到helloworld.zip中
+[2015-06-03 16-22-48 +543] helloworld-procotol.properties压缩完成
+[2015-06-03 16-23-09 +551] *****************部署结束******************
+[2015-06-03 16-23-09 +554]   
+[2015-06-03 16-34-42 +460]   
+[2015-06-03 16-34-42 +495] *****************部署开始******************
+[2015-06-03 16-34-42 +495] 要导出的项目路径：E:\LongyunEclipseworkspace\hello-world-connector
+[2015-06-03 16-34-42 +495] 导出的zip包路径：E:\电科院\try\Connectorzip\helloworld.zip
+[2015-06-03 16-34-42 +505] 准备创建transformer.properties文件：E:\LongyunEclipseworkspace\hello-world-connector\helloworld-transformer.properties
+[2015-06-03 16-34-42 +507] transformer.properties文件创建成功：E:\LongyunEclipseworkspace\hello-world-connector\helloworld-transformer.properties
+[2015-06-03 16-34-42 +510] 开始进行反射获取transformer的properties信息
+[2015-06-03 16-34-42 +597] 成功获取transformer信息
+[2015-06-03 16-34-42 +600] 开始往transformer.properties写入所获取信息 
+[2015-06-03 16-34-42 +600] 往transformer.properties写入完成
+[2015-06-03 16-34-42 +600] 准备将helloworld-transformre.properties压缩到helloworld.zip中
+[2015-06-03 16-34-42 +632] helloworld-transformre.properties压缩完成
+[2015-06-03 16-34-42 +635] 准备创建protocol.properties文件：E:\LongyunEclipseworkspace\hello-world-connector\helloworld-protocol.properties
+[2015-06-03 16-34-42 +635] protocol.properties文件创建成功：E:\LongyunEclipseworkspace\hello-world-connector\helloworld-protocol.properties
+[2015-06-03 16-34-42 +637] 准备获取editor.xml对象
+[2015-06-03 16-34-42 +637] Jar包所在路径：E:\LongyunEclipseworkspace\hello-world-connector\target\update-site\plugins
+[2015-06-03 16-34-42 +637] 准备解压的jar包为：E:\LongyunEclipseworkspace\hello-world-connector\target\update-site\plugins\hello-world-connector-1.0.0-SNAPSHOT-sources.jar
+[2015-06-03 16-34-42 +730] 解压成功
+[2015-06-03 16-34-42 +730] editors.xml路径为：E:\LongyunEclipseworkspace\hello-world-connector\target\update-site\plugins\editors.xml
+[2015-06-03 16-34-42 +742] 获取editor.xml成功
+[2015-06-03 16-34-42 +742] 准备往helloworld-protocol.properties写入procotol信息
+[2015-06-03 16-34-42 +750] CompName=hello-world
+[2015-06-03 16-34-42 +750] config-ref=hello-world__Configuration_type_strategy
+[2015-06-03 16-34-42 +752] namespace=xmlns:hello-world="http://www.mulesoft.org/schema/mule/hello-world"
+[2015-06-03 16-34-42 +755] location=http://www.mulesoft.org/schema/mule/hello-world http://www.mulesoft.org/schema/mule/hello-world/current/mule-hello-world.xsd
+[2015-06-03 16-34-42 +760] GlobalParameter=[{"name":"myProperty","type":"input","value":"value"},{"name":"myStrategyProperty","type":"input","value":"value"}]
+[2015-06-03 16-34-42 +767] operation=source-operation
+[2015-06-03 16-34-42 +767] property=[{"name":"ip","type":"input","value":""},{"name":"port","type":"input","value":""}]
+[2015-06-03 16-34-42 +767] 往helloworld-protocol.properties写入procotol信息完成
+[2015-06-03 16-34-42 +767] 准备将helloworld-procotol.properties压缩到helloworld.zip中
+[2015-06-03 16-34-42 +770] helloworld-procotol.properties压缩完成
+[2015-06-03 16-34-42 +772] *****************部署结束******************
+[2015-06-03 16-34-42 +772]   
+[2015-06-03 17-20-52 +433]   
+[2015-06-03 17-20-52 +473] *****************部署开始******************
+[2015-06-03 17-20-52 +473] 要导出的项目路径：E:\LongyunEclipseworkspace\hello-world-connector
+[2015-06-03 17-20-52 +475] 导出的zip包路径：E:\电科院\try\Connectorzip\helloworld111.zip
+[2015-06-03 17-20-52 +483] 准备创建transformer.properties文件：E:\LongyunEclipseworkspace\hello-world-connector\helloworld111-transformer.properties
+[2015-06-03 17-20-52 +483] transformer.properties文件创建成功：E:\LongyunEclipseworkspace\hello-world-connector\helloworld111-transformer.properties
+[2015-06-03 17-20-52 +485] 开始进行反射获取transformer的properties信息
+[2015-06-03 17-20-52 +570] 成功获取transformer信息
+[2015-06-03 17-20-52 +570] 开始往transformer.properties写入所获取信息 
+[2015-06-03 17-20-52 +570] 往transformer.properties写入完成
+[2015-06-03 17-20-52 +570] 准备将helloworld111-transformre.properties压缩到helloworld111.zip中
+[2015-06-03 17-20-52 +600] helloworld111-transformre.properties压缩完成
+[2015-06-03 17-20-52 +618] 准备创建protocol.properties文件：E:\LongyunEclipseworkspace\hello-world-connector\helloworld111-protocol.properties
+[2015-06-03 17-20-52 +620] protocol.properties文件创建成功：E:\LongyunEclipseworkspace\hello-world-connector\helloworld111-protocol.properties
+[2015-06-03 17-20-52 +620] 准备获取editor.xml对象
+[2015-06-03 17-20-52 +628] Jar包所在路径：E:\LongyunEclipseworkspace\hello-world-connector\target\update-site\plugins
+[2015-06-03 17-20-52 +640] 准备解压的jar包为：E:\LongyunEclipseworkspace\hello-world-connector\target\update-site\plugins\org.mule.tooling.ui.contribution.hello-world.3.5.0_1.0.0.201506031717.jar
+[2015-06-03 17-20-52 +690] 解压成功
+[2015-06-03 17-20-52 +690] editors.xml路径为：E:\LongyunEclipseworkspace\hello-world-connector\target\update-site\plugins\editors.xml
+[2015-06-03 17-20-52 +698] 获取editor.xml成功
+[2015-06-03 17-20-52 +698] 准备往helloworld111-protocol.properties写入procotol信息
+[2015-06-03 17-20-52 +705] CompName=hello-world
+[2015-06-03 17-20-52 +705] config-ref=hello-world__Configuration_type_strategy
+[2015-06-03 17-20-52 +713] namespace=xmlns:hello-world="http://www.mulesoft.org/schema/mule/hello-world"
+[2015-06-03 17-20-52 +715] location=http://www.mulesoft.org/schema/mule/hello-world http://www.mulesoft.org/schema/mule/hello-world/current/mule-hello-world.xsd
+[2015-06-03 17-20-52 +743] GlobalParameter=[{"name":"myProperty","type":"input","value":"value"},{"name":"myStrategyProperty","type":"input","value":"value"}]
+[2015-06-03 17-20-52 +750] operation=source-operation
+[2015-06-03 17-20-52 +750] property=[{"name":"ip","type":"input","value":""},{"name":"port","type":"input","value":""}]
+[2015-06-03 17-20-52 +750] 往helloworld111-protocol.properties写入procotol信息完成
+[2015-06-03 17-20-52 +750] 准备将helloworld111-procotol.properties压缩到helloworld111.zip中
+[2015-06-03 17-20-52 +753] helloworld111-procotol.properties压缩完成
+[2015-06-03 17-20-52 +753] *****************部署结束******************
+[2015-06-03 17-20-52 +755]   
+[2015-07-14 19:42:04 +218] 进入到RemoteDeploy.jar的main函数
